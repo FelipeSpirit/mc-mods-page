@@ -1,1 +1,6 @@
-remote_theme: pages-themes/tactile@v0.2.0
+theme: jekyll-theme-tactile
+show_downloads: true
+google_analytics:
+github:
+  zip_url: "https://github.com/FelipeSpirit/mc-mods-page/raw/main/mods.zip"
+  tar_url: ""
