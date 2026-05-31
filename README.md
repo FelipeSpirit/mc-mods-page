@@ -1,1 +1,1 @@
-<style>.button.tar { display: none !important; }</style>
+<style>#download-tar-gz { display: none !important; }</style>
