@@ -5,8 +5,8 @@
   }
 </style>
 
-<a href="https://github.com/FelipeSpirit/mc-mods-page/raw/main/mods.zip" class="button" id="conall">
-  <span>Mods</span>
-</a>
-<hr>
-
+<div id="mods-container">
+  <a href="https://github.com/FelipeSpirit/mc-mods-page/raw/main/mods.zip" class="button" id="conall">
+    <span>Mods</span>
+  </a>
+</div>
