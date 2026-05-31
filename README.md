@@ -1,5 +1,10 @@
 <style>
   #download-tar-gz { display: none !important; }
+  #mods-container {
+    display: block;
+    padding: 30px 0;
+  }
+  
   #conall span{
     background: transparent url(../assets/images/zip-icon.png) 12px 50% no-repeat;
   }
